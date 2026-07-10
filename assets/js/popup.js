@@ -145,7 +145,7 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'https://rankhive.online/'; }, 600);
+        setTimeout(() => { window.location.href = 'https://bebus.online/'; }, 600);
       }, 5000);
     }, 300); // "few milliseconds" before starting the spinner
   }
@@ -299,7 +299,7 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'https://rankhive.online/'; }, 600);
+        setTimeout(() => { window.location.href = 'https://bebus.online/'; }, 600);
       }, 5000);
     }, 300); // "few milliseconds" before starting the spinner
   }
